@@ -3,6 +3,8 @@
 ## 🚀 About Me
 
 ## 📫 How to reach me: ...
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luisparrapulido/)
+
 
 ## 🛠️ Skills
 
@@ -20,7 +22,7 @@
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white
+![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 <!--
 **LuisParraPulido/luisparrapulido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
